@@ -1,4 +1,4 @@
-# uptime
+# Uptime
 An Uptime Library for Arduino and ESP
 
 Very tiny library to get a fixed timestring with the uptime of a device.
