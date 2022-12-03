@@ -1,0 +1,5 @@
+Uptime	KEYWORD1
+
+update			KEYWORD2
+uptimestr		KEYWORD2
+
