@@ -1,5 +1,5 @@
 /**
-* A small library to calculate an uptimestring
+* A small library to calculate an uptime string
 * in the form "xxxxxD yy:zz" 
 * xxxxx => Days, up to 99999
 * yy    => Hours
@@ -10,7 +10,7 @@
 #ifndef UPTIME_H
 #define UPTIME_H
 
-#define RESSTRLEN   13
+#define RESSTRLEN   14
 #define OVERFLOWSEC   4294967
 #include "Arduino.h"
 
